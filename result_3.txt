@@ -1,0 +1,16 @@
+[
+  {
+    "UserID": 10,
+    "UserName": "Стивен",
+    "UserSurname": "Шнайдер",
+    "RegistrationDate": "05.01.2024",
+    "Password": "_4884484854Lpdvd_"
+  }
+  {
+    "UserID": 4,
+    "UserName": "Татьяна",
+    "UserSurname": "Шилова",
+    "RegistrationDate": "22.04.2023",
+    "Password": "46874548425484_Dmut"
+  }
+]
